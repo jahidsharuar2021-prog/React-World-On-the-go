@@ -1,0 +1,10 @@
+.card{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+
+.country-visited{
+    background-color: aquamarine;
+}
